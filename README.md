@@ -2,7 +2,7 @@
 These projects were from the [Pixel Art Master Course](https://www.udemy.com/course/pixel-art-master-course/) found on Udemy by [Mislav Majdandžić](https://www.udemy.com/user/mislav-majdandzic/)
 
 ## Projects
-You can find an album with all of the projects from the course [here](https://photos.app.goo.gl/MDvT5iJHP5sBBw9x9)
+You can find an album with all of the projects from the course [here](https://photos.app.goo.gl/xCefiWEWGGV5X15P9)
 
 
 - **Challenge 1** | This challenge, I was just supposed to play with lines, to get used to them.
